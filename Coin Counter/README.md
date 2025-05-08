@@ -42,7 +42,8 @@ Se realiza lo siguiente:
 
 🖼️ Ejemplo de salida
 
-    ![Coin Detection Output](images/Salida.png)
+    ![salida](https://github.com/Mojarras7/TC1001S/raw/main/coin%20counter/images/salida.png)
+
 
 💡 Notas adicionales
 Los umbrales entre tipos de moneda se calculan automáticamente usando percentiles (33% y 66%) del tamaño de los radios detectados.
