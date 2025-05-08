@@ -40,9 +40,8 @@ Se realiza lo siguiente:
     2. Subir imagen en el segundo bloque de monedas.
     3. Correr el tercer bloque y ver la informacion de las monedas contadas.
 
-🖼️ Ejemplo de salida
 
-    ![alt text](image.png)
+![alt text](image-1.png)
 
 
 
