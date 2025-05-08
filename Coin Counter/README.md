@@ -18,19 +18,11 @@ Se realiza lo siguiente:
 ## 📁 Files
 
 - **Coin Counter.ipynb**: Archivo Python que contiene el código para procesar imágenes y detectar monedas.
-- **requirements.txt**: Lista de las dependencias necesarias.
 - **README.md**: Este documento con toda la explicación del proyecto.
 
 ---
 
-## 🔧 Installation
-
-1. Clona el repositorio:
-   ```bash
-   git clone <repository-url>
-   cd <project-folder>
-
-2. Instala las dependencias necesarias:
+2. Instala las dependencias necesarias que se encuentran en el repositorio:
 
     pip install -r requirements.txt
 
