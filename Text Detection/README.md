@@ -1,4 +1,4 @@
-# Project Title: Image Filtering and Text Recognition
+# Image Filtering and Text Recognition
 
 ## Overview
 This project implements image filtering and text recognition using Python. It utilizes OpenCV for image processing and Tesseract for Optical Character Recognition (OCR). The main functionality includes loading an image, converting it to grayscale, applying Gaussian blur, detecting edges, and extracting text from the processed image.

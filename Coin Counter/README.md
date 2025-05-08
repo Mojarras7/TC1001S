@@ -1,4 +1,4 @@
-# Project Title: Detección y Clasificación de Monedas con OpenCV
+# Detección y Clasificación de Monedas con OpenCV
 
 ## 🧾 Overview
 
@@ -41,7 +41,7 @@ Se realiza lo siguiente:
     3. Correr el tercer bloque y ver la informacion de las monedas contadas.
 
 
-![alt text](images/Salida.png)
+        ![alt text](images/Salida.png)
 
 
 
