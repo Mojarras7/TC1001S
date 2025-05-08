@@ -42,7 +42,8 @@ Se realiza lo siguiente:
 
 🖼️ Ejemplo de salida
 
-    ![salida](https://github.com/Mojarras7/TC1001S/raw/main/Coin%20Counter/images/Salida.png)
+    ![alt text](image.png)
+
 
 
 💡 Notas adicionales
