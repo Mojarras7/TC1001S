@@ -42,7 +42,7 @@ Se realiza lo siguiente:
 
 🖼️ Ejemplo de salida
 
-    ![alt text](Salida.png)
+    ![Coin Detection Output](images/Salida.png)
 
 💡 Notas adicionales
 Los umbrales entre tipos de moneda se calculan automáticamente usando percentiles (33% y 66%) del tamaño de los radios detectados.
