@@ -41,7 +41,10 @@ Se realiza lo siguiente:
     3. Correr el tercer bloque y ver la informacion de las monedas contadas.
 
 
-        ![alt text](images/Salida.png)
+
+<p align="center">
+  <img src="images/Salida.png" alt="salida" width="500"/>
+</p>
 
 
 
